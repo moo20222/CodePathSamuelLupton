@@ -8,7 +8,7 @@ The README instruction state:
 
 "TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below." 
 
-Since it says we can use LICEcap and provide a file path, here is the file path: moo20222/CodePathSamuelLupton/main/CodePath/CodePathGifSub.gif
+Since it says we can use LICEcap and provide a file path to the gif, here is the file path: CodePath/CodePathGifSub.gif
 
 
 
