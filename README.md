@@ -6,7 +6,7 @@ This app is an introdution app. This app is used for people to make an details i
 
 ### App Walk-though
 
-<img src="(https://i.imgur.com/doljdKI.gif)" width=200><br>
+<img src="https://i.imgur.com/doljdKI.gif" width=200><br>
 
 
 ### Required Features:
