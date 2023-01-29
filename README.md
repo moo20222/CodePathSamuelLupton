@@ -1,13 +1,18 @@
-Samuel_Lupton_Introduction
+IntroduceStudent
 
-App Description
-
-This app is an introdution app. This app is used for people to make an details introduction of themselves digitally!
+App Description: This app is an introdution app. This app is used for people to make an details introduction of themselves digitally!
 
 App Walk-though
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
-Required Features
+The README instruction state: 
+
+"TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below." 
+
+Since it says we can use LICEcap and provide a file path, here is the file path: moo20222/CodePathSamuelLupton/main/CodePath/CodePathGifSub.gif
+
+
+
+Required Features:
 -[x] App displays an image of a school's logo
 -[x] App has three textfields for first, last, and school names
 -[x] App has a segmented control that changes student year
