@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var introButton: UIButton!
     @IBOutlet weak var numberOfSiblingsTextFeild: UILabel!
     @IBOutlet weak var moreSiblingStepper: UIStepper!
-    
+    @IBOutlet weak var colorSwitchButton: UIButton!
     
     
     override func viewDidLoad() {
@@ -39,6 +39,11 @@ class ViewController: UIViewController {
         numberOfSiblingsTextFeild.text = "\(Int(sender.value))"
     }
     
+    @IBAction func colorButtonPressed(_ sender: UIButton) {
+        
+        sender.backgroundColor = sender.backgroundColor == UIColor.blue ? UIColor.green : UIColor.blue
+        
+    }
     @IBAction func introduceSelfDidTapped(_ sender: UIButton) {
             
             // Let's us chose the title we have selected from the segmented control
