@@ -2,7 +2,7 @@
 
 ### App Description: 
 
-This app is an introdution app. This app is used for people to make an details introduction of themselves digitally!
+This app is an introdution app. This app is used for people to make a detailed introduction of themselves, digitally!
 
 ### App Walk-though
 
